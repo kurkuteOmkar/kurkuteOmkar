@@ -1,11 +1,11 @@
 # Hey there, I'm Omkar
 
-Full Stack Developer | AI/ML Enthusiast  
+Full Stack Developer | AI/ML Enthusiast
 
 ---
 
-🎓 Pursuing Da & Ds course
-🛠️ Passionate about building tech-driven solutions that solve real-world problems  
+🎓 Pursuing Data Science & Data Analytics course  
+🛠️ Passionate about building tech-driven solutions that solve real-world problems
 
 ---
 
@@ -13,18 +13,19 @@ Full Stack Developer | AI/ML Enthusiast
 
 - Build full-stack applications using **Express.js, React, Node.js, and MongoDB**
 - Work with modern AI tools such as **Antigravity and AI agents**
-- Solve **SQL **  
-  -HackerRank Gold level SQL Badge 
+- Solve **SQL problems**
+  - 🏆 HackerRank Gold Level SQL Badge
 - Participate in contests and technical challenges
 
 ---
 
-## Projects I’ve Built
+## Projects I've Built
 
 ### **AI Resume Analyzer**
+
 An AI-powered interview preparation platform that creates a realistic and personalized interview environment.
 
-🔗 **Live:** [AIResumeAnalyzer](hhttps://airesumeanalyer-nu.vercel.app/)
+🔗 **Live:** [AI Resume Analyzer](https://airesumeanalyer-nu.vercel.app/)
 
 - ATS Resume Analysis – Identifies strengths, weaknesses, missing skills, and formatting issues.
 - Project & Education Review – Evaluates projects, tech stack, and academic background.
@@ -34,25 +35,26 @@ An AI-powered interview preparation platform that creates a realistic and person
 
 ---
 
-### **E-Commerce Web Application Razorpay**
-Developed a full-stack MERN e-commerce application Integrated JWT authentication and Cloudinary to ensure secure sessions and optimized image hosting. Implemented the Razorpay API to facilitate safe, real-time payment processing for a seamless user experience.
+### **E-Commerce Web Application | Razorpay**
 
-🔗 **Repo:** [E-Commerce-Web-Application-MERN-Stack---Razorpay]([https://youtu.be/sUso1xtWvE0](https://github.com/kurkuteOmkar/E-Commerce-Web-Application-MERN-Stack---Razorpay))
+Developed a full-stack MERN e-commerce application with JWT authentication and Cloudinary for secure sessions and optimized image hosting. Integrated the Razorpay API for secure, real-time payment processing.
 
-- MERN E-Commerce App 
+🔗 **Repo:** [E-Commerce Web Application - MERN Stack - Razorpay](https://github.com/kurkuteOmkar/E-Commerce-Web-Application-MERN-Stack---Razorpay)
+
+- MERN E-Commerce App
 - Secure Authentication
-- Cloudinary Integration 
+- Cloudinary Integration
 - Razorpay Payments
 
 ---
 
-## What I’m Exploring
+## What I'm Exploring
 
 - 🔍 Real-world problem solving using **AI and Machine Learning**
 - 🤖 **AI agent applications**
-- 📊 **Data Analytics & Data-Driven** Insights
+- 📊 **Data Analytics & Data-Driven Insights**
 - 🌐 Building **scalable web systems**
-- 
+
 ---
 
 ✨ *Turning problems into products, one line of code at a time.*
@@ -62,7 +64,8 @@ Developed a full-stack MERN e-commerce application Integrated JWT authentication
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-kurkute-29817a287/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kurkuteOmkar/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kurkuteOmkar)
 
 ---
 
